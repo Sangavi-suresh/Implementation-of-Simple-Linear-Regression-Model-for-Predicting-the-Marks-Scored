@@ -1,4 +1,4 @@
-# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
+![ytest](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/59b0e671-aa3a-44c3-b9e8-0b48283ee568)# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model. 
@@ -81,31 +81,40 @@ print("RMSE= ",rmse)
 OUTPUT:
 
 df.head:
-![dfhead](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/9353e376-31cf-4201-a060-aa0223e079d9)
+![dfhead](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/6cdcc48b-3fab-495b-a1ab-e887ed08cd9a)
+
 
 df.tail():
-![dftail](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/073f28c8-552c-4038-9c4d-158c4693ca16)
+![dftail](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/57a122b5-50fe-4fb5-86b0-eecdd08a2cd6)
+
 
 Array value of X:
-![array x](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/184599c2-6fe6-4e74-b725-7dbd65e6894a)
+![array x](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/3df672b2-1b65-485e-a394-d74e6df7b9d8)
 
 Array value of Y:
-![array y](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/3cbbbfa6-bbd4-429c-927f-5000c44e9a96)
+![array y](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/195346fd-4a7f-4ab2-bc4b-8c3b5ce4a464)
+
 
 Values of Y prediction:
-![y pred](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/936437bf-c607-4fb0-8c8b-c7cab87b5cd7)
+![y pred](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/e2f65303-af4d-43a4-a7b7-95f01b4d038b)
+
 
 Array values of Y test:
-![ytest](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/5aaf12ca-39e4-45cd-811e-766252821b6e)
+![ytest](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/54625bce-8ec2-4b1b-a954-58c57621d47d)
+
+
 
 Training Set Graph:
-![train graph](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/001bc23f-3074-4333-bb62-eab4bb740153)
+![train graph](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/6925ca85-065a-4d11-9e80-b446a9ba0680)
+
 
 Test Set Graph:
-![testgraph](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/55fa225d-0bcb-4950-8af3-92fb541a3726)
+![testgraph](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/2781edfb-d4d6-4592-9280-6808c8784214)
+
 
 Values of MSE, MAE and RMSE:
-![msemae](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/51bfd0dd-47b9-4eeb-8d94-17e8ca9b8f57)
+![msemae](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/2b862e16-12fb-4ad8-9b11-86cd851d143a)
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
