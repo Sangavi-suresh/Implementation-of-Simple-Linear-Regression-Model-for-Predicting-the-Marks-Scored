@@ -80,46 +80,46 @@ print("RMSE= ",rmse)
 
 OUTPUT:
 
-df.head:
+# df.head:
 ![dfhead](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/b2ee7646-ace1-4ad2-8b23-90478642975c)
 
 
 
-df.tail():
+# df.tail():
 ![dftail](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/6af2e39d-d025-4633-8a18-b4ad53344eac)
 
 
 
-Array value of X:
+# Array value of X:
 ![array x](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/7306187d-04d2-4150-bdf2-ce6606b48162)
 
 
-Array value of Y:
+# Array value of Y:
 ![array y](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/24e71995-2166-4658-8369-81ce9a79dc9e)
 
 
-Values of Y prediction:
+# Values of Y prediction:
 ![y pred](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/214f1c45-4203-4373-a87f-35b2c8253a15)
 
 
 
-Array values of Y test:
+# Array values of Y test:
 ![ytest](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/79b73547-10de-4466-89eb-9280a3efc920)
 
 
 
 
-Training Set Graph:
+# Training Set Graph:
 ![train graph](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/59162893-8a45-4127-9b05-94c51c38de04)
 
 
 
-Test Set Graph:
+# Test Set Graph:
 ![testgraph](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/86fd1998-a966-4182-8afb-3a5d7787af9c)
 
 
 
-Values of MSE, MAE and RMSE:
+# Values of MSE, MAE and RMSE:
 ![msemae](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/b11230b0-b176-4d66-8438-3a81ec3cee13)
 
 
