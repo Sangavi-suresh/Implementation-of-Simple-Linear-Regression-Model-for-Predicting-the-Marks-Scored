@@ -81,39 +81,47 @@ print("RMSE= ",rmse)
 OUTPUT:
 
 df.head:
-![dfhead](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/6cdcc48b-3fab-495b-a1ab-e887ed08cd9a)
+![dfhead](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/b2ee7646-ace1-4ad2-8b23-90478642975c)
+
 
 
 df.tail():
-![dftail](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/57a122b5-50fe-4fb5-86b0-eecdd08a2cd6)
+![dftail](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/6af2e39d-d025-4633-8a18-b4ad53344eac)
+
 
 
 Array value of X:
-![array x](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/3df672b2-1b65-485e-a394-d74e6df7b9d8)
+![array x](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/7306187d-04d2-4150-bdf2-ce6606b48162)
+
 
 Array value of Y:
-![array y](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/195346fd-4a7f-4ab2-bc4b-8c3b5ce4a464)
+![array y](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/24e71995-2166-4658-8369-81ce9a79dc9e)
 
 
 Values of Y prediction:
-![y pred](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/e2f65303-af4d-43a4-a7b7-95f01b4d038b)
+![y pred](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/214f1c45-4203-4373-a87f-35b2c8253a15)
+
 
 
 Array values of Y test:
-![ytest](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/54625bce-8ec2-4b1b-a954-58c57621d47d)
+![ytest](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/79b73547-10de-4466-89eb-9280a3efc920)
+
 
 
 
 Training Set Graph:
-![train graph](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/6925ca85-065a-4d11-9e80-b446a9ba0680)
+![train graph](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/59162893-8a45-4127-9b05-94c51c38de04)
+
 
 
 Test Set Graph:
-![testgraph](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/2781edfb-d4d6-4592-9280-6808c8784214)
+![testgraph](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/86fd1998-a966-4182-8afb-3a5d7787af9c)
+
 
 
 Values of MSE, MAE and RMSE:
-![msemae](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/2b862e16-12fb-4ad8-9b11-86cd851d143a)
+![msemae](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/b11230b0-b176-4d66-8438-3a81ec3cee13)
+
 
 
 ## Result:
