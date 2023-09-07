@@ -1,5 +1,3 @@
-![ytest](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/59b0e671-aa3a-44c3-b9e8-0b48283ee568)# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
-
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model. 
 
