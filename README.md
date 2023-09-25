@@ -114,7 +114,7 @@ OUTPUT:
 
 
 
-# Training Set Graph:
+# Training Set Graph: 
 
 ![image](https://github.com/Sangavi-suresh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118541861/bb60cc5e-5fe6-4abf-b247-51672abd4905)
 
